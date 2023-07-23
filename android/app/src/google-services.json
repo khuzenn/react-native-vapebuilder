@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059524865176",
+    "project_id": "screen-dc407",
+    "storage_bucket": "screen-dc407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059524865176:android:884ccea1551109c4e3f4ed",
+        "android_client_info": {
+          "package_name": "com.screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059524865176-glfdhjqupne60mhh92mlujltk326026r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2VTame49gwPtnf7mL8ePe64whXd5RRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059524865176-glfdhjqupne60mhh92mlujltk326026r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
